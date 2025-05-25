@@ -20,7 +20,7 @@ This project focuses on classifying the emotions expressed in tweets using **Sup
 
 ---
 
-## 🔄 Workflow
+## Workflow
 
 1. **Data Loading**  
    Load the dataset using `pandas`.
